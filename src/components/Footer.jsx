@@ -62,10 +62,7 @@ const Footer = () => {
                   </span>
                 </div>
               </div>
-              <p className="text-gray-400 font-roboto mb-6">
-                We Offer a Wide Range of Quality Solar Panel Installation
-                Services.
-              </p>
+
 
               <ul className="space-y-3">
                 <li className="flex items-start group  ">
@@ -74,7 +71,7 @@ const Footer = () => {
                     href="mailto:peswanipixels@gmail.com"
                     className="text-gray-400 font-roboto transition-colors"
                   >
-                    companyEmail@gmail.com
+                    info@nextgridsolarenergy.com
                   </a>
                 </li>
                 <li className="flex items-start group ">
@@ -158,7 +155,7 @@ const Footer = () => {
                   href="mailto:peswanipixels@gmail.com"
                   className="text-gray-400 font-roboto transition-colors"
                 >
-                  companyEmail@gmail.com
+                  info@nextgridsolarenergy.com
                 </a>
               </div>
               <div className="flex items-start group mb-2 ">

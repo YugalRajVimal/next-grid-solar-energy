@@ -115,7 +115,7 @@ const Contact = () => {
                   </li>
                   <li className="flex items-center gap-3 border-b border-gray-200 pb-3">
                     <span className="text-[#f6a235] text-xl">📧</span>
-                    needhelp@company.com
+                    info@nextgridsolarenergy.com
                   </li>
                   <li className="flex items-center gap-3">
                     <span className="text-[#f6a235] text-xl">📍</span>
